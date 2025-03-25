@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "name": "Tomaten",
+        "price": 4.49,
+        "description": "Groß und rot.",
+        "image": ""
+    },{
+        "id": 1,
+        "name": "Fruchtbonbons",
+        "price": 3.99,
+        "description": "Die sind extra lecker.",
+        "image": "images/fruchtbonbons.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Äpfel",
+        "price": 5.49,
+        "description": "Knackig und frisch.",
+        "image": "images/aepfel.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Zahncreme",
+        "price": 12.99,
+        "description": "Immer wieder erfrischend.",
+        "image": "https://m.media-amazon.com/images/I/51cLk95LZHL._AC_SL1000_.jpg"
+    }
+]
